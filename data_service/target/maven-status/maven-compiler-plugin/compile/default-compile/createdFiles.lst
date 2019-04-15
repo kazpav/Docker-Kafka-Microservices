@@ -1,0 +1,8 @@
+com\practice\dakm\dataservice\service\impl\UserSerializer.class
+com\practice\dakm\dataservice\config\SwaggerConfig.class
+com\practice\dakm\dataservice\service\impl\KafkaProducerServiceImpl.class
+com\practice\dakm\dataservice\service\KafkaProducerService.class
+com\practice\dakm\dataservice\controller\UserController.class
+com\practice\dakm\dataservice\controller\Endpoints.class
+com\practice\dakm\dataservice\dto\UserDto.class
+com\practice\dakm\dataservice\DataServiceApplication.class
