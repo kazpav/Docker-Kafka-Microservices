@@ -13,6 +13,8 @@ public class DataServiceApplication {
         System.out.println("===============================================> Startup test");
         System.out.println("===============================================> Startup test");
         System.out.println("new code");
+        System.out.println("new code");
+        System.out.println("new code");
         SpringApplication.run(DataServiceApplication.class, args);
     }
 }
